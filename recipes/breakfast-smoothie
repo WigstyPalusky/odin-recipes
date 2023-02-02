@@ -7,5 +7,27 @@
     <body>
         <h1>Breakfast Smoothie</h1>
         <img src="https://kristineskitchenblog.com/wp-content/uploads/2022/02/best-berry-smoothie-recipe-06.jpg" alt="SMall Berries Smoothie">
+        <h2>Description</h2>
+        <p>Packed with berries and falvored protein powder, this delicious morning smoothie is great
+            for busy individuals looking for a quick but complete breakfast! Read below for the recipe instructions
+        </p>
+        <h3>Ingredients</h3>
+        <ul>
+            <li>Frozen berries: 100g</li>
+            <li>Birthday Cake Flavoured Protein Powder: 1 scoop</li>
+            <li>Vanilla Yogurt: 100ml</li>
+            <li>Canella: 1 tsp</li>
+            <li>Milk: 100 ml</li>
+            <li>1 banana</li>
+            <li>Peanut Butter: 1 table spoon</li>
+        </ul>
+        <h3>Instructions</h3>
+        <ol>
+            <li>Add the frozen berries and the diced banana to your pichet</li>
+            <li>Add in the yogurt and the milk, followed by the protein powder</li>
+            <li>Add the canella and peanut butter</li>
+            <li>Mix until you get a thick but smooth texture</li>
+            <li>Most importantly: Enjoy your delicious smoothie!</li>
+        </ol>
     </body>
 </html>
